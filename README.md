@@ -1,5 +1,5 @@
 # ECE-417
-project for ECE-417 (Machine Learning) : Sentiment Analysis and Prediction on Twitter Reviews dataset of Airline Companies (**_Python_**)
+project for ECE-417 (Machine Learning) : _Sentiment Analysis and Prediction on Twitter Reviews dataset of Airline Companies_ (**_Python_**)
 
 What **dataset** did we have? 
 * A really big dataset with tweets and other information of twitter users regarding their flights with certain airline companies.
